@@ -6,17 +6,23 @@
 * 🎓 Formado **Sistema de Informação**
 * 💻 Estudando **Docker, HTML5 e CSS no momento**
 
+
+## Formações Alura <a href="https://cursos.alura.com.br/vitrinedev/adriano-pavaneli">VitrineDev</a>
+
+| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/java.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Spring.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenteagil.jpg) |
+| :-: | :-: | :-: |
+
 ## 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Adriano-JAVA" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-     <img align="center" alt="Adriano-Spring" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-     <img align="center" alt="Adriano-HTML5" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-     <img align="center" alt="AdrianoCSS3" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center" alt="Adriano-Git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Adriano-PostGreSQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Adriano-MySQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Adriano-MySQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+    <img title="Java" align="center" alt="Adriano-JAVA" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img title="Spring Boot" align="center" alt="Adriano-Spring" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+     <img title="HTML 5" align="center" alt="Adriano-HTML5" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+     <img title="CSS 3" align="center" alt="AdrianoCSS3" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   <img title="Github" align="center" alt="Adriano-Git" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img title="PostGreSQL" align="center" alt="Adriano-PostGreSQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img title="MySQL" align="center" alt="Adriano-MySQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img title="Docker" align="center" alt="Adriano-Docker" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 </div>  
 <br>
 
