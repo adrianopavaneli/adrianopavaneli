@@ -9,8 +9,8 @@
 
 ## Formações Alura <a href="https://cursos.alura.com.br/vitrinedev/adriano-pavaneli">VitrineDev - Certificados</a>
 
-| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/java.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Spring.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenteagil.jpg) |
-| :-: | :-: | :-: |
+| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/java.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Spring.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenteagil.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/htmlecss.jpg) |
+| :-: | :-: | :-: | :-: |
 
 ## 🛠️ Ferramentas e Tecnologias
 
