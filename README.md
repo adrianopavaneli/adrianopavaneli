@@ -4,7 +4,7 @@
 
 * 💻 **Desenvolvedor Back-End**
 * 🎓 Formado **Sistema de Informação**
-* 💻 Estudando **MongoDB no momento**
+* 💻 Estudando Angular no momento**
 
 
 ## Formações Alura <a href="https://cursos.alura.com.br/vitrinedev/adriano-pavaneli">VitrineDev - Certificados</a>
