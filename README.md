@@ -4,7 +4,7 @@
 
 * 💻 **Desenvolvedor Back-End**
 * 🎓 Formado **Sistema de Informação**
-* 💻 Estudando Angular no momento**
+* 💻 Estudando Javascript no momento**
 
 
 ## Formações Alura <a href="https://cursos.alura.com.br/vitrinedev/adriano-pavaneli">VitrineDev - Certificados</a>
@@ -12,7 +12,7 @@
 | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/java.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Spring.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenteagil.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/htmlecss.jpg) |
 | :-: | :-: | :-: | :-: |
 
-| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/frontend.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Sprinqg.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenqteagil.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/htmleqcss.jpg) |
+| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/frontend.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/html2.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/java2.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/javaweb.jpg) |
 | :-: | :-: | :-: | :-: |
 
 ## 🛠️ Ferramentas e Tecnologias
