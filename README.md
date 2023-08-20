@@ -12,7 +12,7 @@
 | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/java.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Spring.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenteagil.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/htmlecss.jpg) |
 | :-: | :-: | :-: | :-: |
 
-| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/frontend.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Spring.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/Gerenteagil.jpg) | ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/htmlecss.jpg) |
+| ![](https://raw.githubusercontent.com/adrianopavaneli/adrianopavaneli/main/img/frontend.jpg) | 
 | :-: | :-: | :-: | :-: |
 
 ## 🛠️ Ferramentas e Tecnologias
