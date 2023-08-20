@@ -2,7 +2,7 @@
 
 
 
-* 💻 **Desenvolvedor Back-End**
+* 💻 **Desenvolvedor Full Stack**
 * 🎓 Formado **Sistema de Informação**
 * 💻 Estudando Javascript no momento**
 
