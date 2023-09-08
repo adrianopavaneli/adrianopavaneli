@@ -26,7 +26,7 @@
   <img title="PostGreSQL" align="center" alt="Adriano-PostGreSQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img title="MySQL" align="center" alt="Adriano-MySQL" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img title="Docker" align="center" alt="Adriano-Docker" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
-    <img title="Docker" align="center" alt="Adriano-Javascript" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img title="Javascript" align="center" alt="Adriano-Javascript" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>  
 <br>
 
