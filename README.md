@@ -2,9 +2,9 @@
 
 
 
-* 💻 **Desenvolvedor Full Stack**
+* 💻 **Desenvolvedor BackEnd**
 * 🎓 Formado **Sistema de Informação**
-* 💻 Estudando Javascript no momento**
+* 💻 Estudando AWS no momento**
 
 
 ## Formações Alura <a href="https://cursos.alura.com.br/vitrinedev/adriano-pavaneli">VitrineDev - Certificados</a>
